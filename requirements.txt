@@ -92,7 +92,7 @@ tornado==6.1
 traitlets==5.0.5
 typing-extensions==3.7.4.3
 tzlocal==2.1
-urllib3==1.26.2
+urllib3==1.26.18
 validators==0.18.2
 Wand==0.6.5
 watchdog==1.0.2
