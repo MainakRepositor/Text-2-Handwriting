@@ -18,7 +18,12 @@ This project will help you get through it!! Upload a .txt or .docx document wher
 ![image](https://github.com/MainakRepositor/Text-2-Handwriting/assets/64016811/4a2a156b-74a9-4523-927f-bbfc7881e29f)
 
 2. Conversion
-
+![image](https://github.com/MainakRepositor/Text-2-Handwriting/assets/64016811/69de8fe4-5636-48d3-91e9-5da96d37b320)
 
 3. Demo Document
+[TEXT]
+![image](https://github.com/MainakRepositor/Text-2-Handwriting/assets/64016811/59b8d630-ad5a-4b03-9ee7-7a0fadf8be8e)
+
+[HANDWRITTEN DOC]
+![image](https://github.com/MainakRepositor/Text-2-Handwriting/assets/64016811/432cfbd3-aec9-47aa-ad07-9b41a27a0dc4)
 
