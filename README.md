@@ -13,5 +13,12 @@ This project will help you get through it!! Upload a .txt or .docx document wher
 <li> Adding support for very text heavy documents </li>
 </ul>
 
+## Working Screenshots
+1. Landing Page
+![image](https://github.com/MainakRepositor/Text-2-Handwriting/assets/64016811/4a2a156b-74a9-4523-927f-bbfc7881e29f)
 
+2. Conversion
+
+
+3. Demo Document
 
