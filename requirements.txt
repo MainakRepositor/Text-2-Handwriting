@@ -1,6 +1,5 @@
 altair
 streamlit
 Pillow
-PdffromImage
 docx2txt
 opencv-python
