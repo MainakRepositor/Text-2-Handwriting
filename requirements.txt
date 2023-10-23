@@ -1,7 +1,6 @@
 altair
 streamlit
 Pillow
-imghdr
 PdffromImage
 docx2txt
 opencv-python
